@@ -1,6 +1,6 @@
 programa {
   funcao inicio() {
-    real num1, num2, num3, num4, diferenca
+    inteiro num1, num2, num3, num4, diferenca
 
     escreva("Informe o primeiro número? ")
     leia(num1)
